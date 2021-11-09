@@ -12,8 +12,12 @@
   <lastmod>2021-11-09T08:15:45+00:00</lastmod>
 </url>
 
-      <url>
+<url>
   <loc>https://d2fc545rqfcjiv.cloudfront.net/</loc>
+</url>
+      
+<url>
+  <loc>https://*.cloudfront.*/</loc>
 </url>
 
       
